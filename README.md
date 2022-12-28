@@ -53,3 +53,7 @@ https://graphicsurf.com/download/1884/
 
 Topページのデザインを大幅に更新
 全ページの壁紙を統一し、テーマを統一
+
+# Ver 4.1.0
+
+Activitiesページの文書や画像などをすべて補完し完成させた
